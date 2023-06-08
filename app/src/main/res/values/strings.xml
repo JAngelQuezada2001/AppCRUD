@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppCRUD</string>
+    <string name="str_btnbuscar">Buscar Libro</string>
+    <string name="str_btnregistrar">Registrar Libro</string>
+    <string name="str_btnListar">Listar Libro</string>
+
+    <string name="str_titulo">titulo</string>
+    <string name="str_subtitulo">subtitulo</string>
+    <string name="str_isbn">ISBN</string>
+    <string name="str_autor">Autor</string>
+    <string name="str_anio_publicacion">Año Publicacion</string>
+    <string name="str_precio">Precio</string>
+
+    <string name="str_bienvenido">Bienvenido</string>
+    <string name="str_descripcion_imagen">Todo</string>
+    <string name="str_listarLibros">Listado de Libros</string>
+    <string name="str_gestionarlibros">Gestionar Libro x titulo</string>
+    <string name="str_busscarLibro">Buscar Libro x titulo</string>
+    <string name="str_digitetitulo">Digite el titulo a buscar</string>\
+
+    <string name="str_btnguardar">Guardar</string>
+    <string name="str_btnactualizar">Actualizar</string>
+    <string name="str_btnborrar">Borrar
+
+    </string>
+
+</resources>
